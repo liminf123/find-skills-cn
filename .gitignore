@@ -1,0 +1,11 @@
+# 本仓库只有 Markdown 和一个 bash 脚本，几乎不需要忽略什么。
+# 留着这几条是为了防止将来误提交。
+
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# 本地草稿 / 实验，不进版本库
+scratch/
+*.local.md
